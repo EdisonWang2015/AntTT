@@ -1,6 +1,6 @@
 package test.ant;  
 public class HelloWorld {  
-    public static main(String[] args) {  
+    public static man(String[] args) {  
         // TODO Auto-generated method stub  
         System.out.println("HelloWord !!");  
     }  
